@@ -6,7 +6,7 @@
      
       SinglePatternDemo object = SinglePatternDemo.getInstance();
 
-      object.showMessage();
+      object.display();
    }
 }
 

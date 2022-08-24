@@ -10,7 +10,7 @@ public class SinglePatternDemo {
        return instance;
     }
  
-    public void showMessage(){
+    public void display(){
        System.out.println("It is Singletone Pattern!");
     }
  }
